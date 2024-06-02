@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# audio_output_select.py에 실행 권한 부여
+chmod +x /usr/local/bin/audio_output_select
+
+# 필요한 Python 라이브러리 설치 (이미 의존성에 정의된 경우 생략 가능)
+pip3 install PyQt5 pulsectl
+
+# autostart에 .desktop 파일 추가
+# 기존 사용자를 위한 자동 시작 설정은 복잡할 수 있으므로, 여기서는 샘플로만 제공
+cat > /etc/skel/.config/autostart/audio_output_select.desktop <<EOL
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/audio_output_select
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Audio Output Select
+Comment=Select your audio output device on login.
+EOL
+
+# 스크립트 실행 완료
+echo "AudioOutputSelect 설치가 완료되었습니다."

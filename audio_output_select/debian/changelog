@@ -1,0 +1,6 @@
+audio-output-select (1.0-0ubuntu1) jammy; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+ 
+
+ -- taeyoeng <taeyoun9@gmail.com>  Fri, 05 Apr 2024 20:26:20 +0900

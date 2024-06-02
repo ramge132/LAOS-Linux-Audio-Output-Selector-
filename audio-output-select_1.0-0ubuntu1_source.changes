@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 05 Apr 2024 20:26:20 +0900
+Source: audio-output-select
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.0-0ubuntu1
+Distribution: jammy
+Urgency: medium
+Maintainer: taeyeong yu <taeyoun9@gmail.com>
+Changed-By: taeyoeng <taeyoun9@gmail.com>
+Changes:
+ audio-output-select (1.0-0ubuntu1) jammy; urgency=medium
+ .
+   * Initial release. (Closes: #XXXXXX)
+Checksums-Sha1:
+ d23513bcadecae2d21de82aef8e42db7174a2ea2 1688 audio-output-select_1.0-0ubuntu1.dsc
+ ff4512c9a3b41c0176b2170804a7aff81dd1a47a 1792 audio-output-select_1.0.orig.tar.gz
+ 203d88490d217bf2a15d2052dd2d5fc6eb43553f 1264 audio-output-select_1.0-0ubuntu1.debian.tar.xz
+ eec7906369e148d600a82f26b48f6a7302d1a83a 11248 audio-output-select_1.0-0ubuntu1_source.buildinfo
+Checksums-Sha256:
+ a64da5ba10f06bfa9990d2c453dba301212f7b5c06622e0118b20c457f30ade8 1688 audio-output-select_1.0-0ubuntu1.dsc
+ 10e34a35600a1390a1ec54f5afad27cde0c129d32d931a0fe2ea653462f49010 1792 audio-output-select_1.0.orig.tar.gz
+ 96dfe72e7260b72a8e79cb0540c12bd4949ba65fbf08e5c2c7172e12977e63ee 1264 audio-output-select_1.0-0ubuntu1.debian.tar.xz
+ 903215dd8ccc64d18e26de5ef609e67a47d1fe96a677ed699b22dd6a28a7f0cf 11248 audio-output-select_1.0-0ubuntu1_source.buildinfo
+Files:
+ 25d206ace04777be7d1f50538120aba8 1688 utils optional audio-output-select_1.0-0ubuntu1.dsc
+ f7720f6053ddccfb1a265c5b363a8b7b 1792 utils optional audio-output-select_1.0.orig.tar.gz
+ d35bdb004d6e6808c01109060e017f4e 1264 utils optional audio-output-select_1.0-0ubuntu1.debian.tar.xz
+ 3953451251f65657d1c11204ddaa1efa 11248 utils optional audio-output-select_1.0-0ubuntu1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHHBAEBCgAxFiEEhupKDahfgRbkPPxUHboGrWIxGE4FAmYP6mYTHHRhZXlvdW45
+QGdtYWlsLmNvbQAKCRAdugatYjEYTk+2C/9qcGspKJf47RC4Iq3F9bHTliDEwBO6
+wEhNra72m3as55gYW4hQ3Atmb8b5vwrbefR9iF9IlzPlyL5iK1fbR2D1qiHF9Hl+
+iTLIu7dKeBwLVplMbc1P+ooG5xNPPH4cS2F1smCN27GuFFUpX9Ky5iVP18cHmQ5d
+e+nik7Osgpr6J+FbM5ev9xUOXrad4u/B7+cpOeCCxln5EhE7qNycM58BvJ8Zi0WZ
+aUKSDKyrm+FS0GVm64sJOMt6Cenk87asYu178r2D/o/dfClOSGKMgLtpO+Zk16Sv
+65DCglzl7dN/dIqa07VqiiDbRiKseUXbSywYxRZ7Tn36vCXn9ukTxDnmJ0+NHGG8
+/UMLVLPsy5xDcK2KfDBPfaU7sOSSN+NNX9j42g6fFEOEXwv2Su3o9on2Sl480/8l
+HQv9GqXT9+iwP55TLGT+LLyfWU9HpgfqX5HCoaHlN9Tfw98PqHMH/xionJhmpOea
+lbpZgMkyF9f8lyAV5E0hGKmsDF2IXLoBmaU=
+=fza+
+-----END PGP SIGNATURE-----
